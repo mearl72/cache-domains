@@ -1,3 +1,2 @@
 patches.rockstargames.com
-gamedownloads-rockstargames-com.akamaized.net
 rg1.rockstargames.com
