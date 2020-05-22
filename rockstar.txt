@@ -1,3 +1,3 @@
 patches.rockstargames.com
 gamedownloads.rockstargames.com
-gamedownloads-rockstargames-com.akamaized.net
+a498.dscd.akamai.net
