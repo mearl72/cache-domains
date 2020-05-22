@@ -1,8 +1,3 @@
 patches.rockstargames.com
-rg1.rockstargames.com
 gamedownloads.rockstargames.com
-rg1-prod.ros.rockstargames.com
-prod.ros.rockstargames.com
-ps-rg1-prod.ros.rockstargames.com
-app-rg1-prod.ros.rockstargames.com
-auth-rg1-prod.ros.rockstargames.com
+gamedownloads-rockstargames-com.akamaized.net
